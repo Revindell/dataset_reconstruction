@@ -1,0 +1,1710 @@
+USA_ArgoverseMIA-172_0_T-1
+62857	added: 54	deleted: 2
+USA_ArgoverseMIA-519_0_T-1
+85189	added: 44	deleted: 2
+USA_ArgoversePIT-2_0_T-1
+19271	added: 24	deleted: 9
+USA_ArgoverseMIA-330_0_T-1
+106487	added: 38	deleted: 2
+USA_ArgoverseMIA-519_0_T-1
+85200	added: 36	deleted: 2
+USA_ArgoversePIT-610_0_T-1
+51285	added: 55	deleted: 3
+USA_ArgoverseMIA-394_0_T-1
+10935	added: 16	deleted: 11
+USA_ArgoverseMIA-120_0_T-1
+757	added: 30	deleted: 10
+USA_ArgoversePIT-2_0_T-1
+19302	added: 24	deleted: 10
+USA_ArgoverseMIA-519_0_T-1
+85213	added: 77	deleted: 2
+USA_ArgoverseMIA-394_0_T-1
+10954	added: 14	deleted: 6
+USA_ArgoverseMIA-394_0_T-1
+11044	added: 41	deleted: 2
+USA_ArgoversePIT-804_0_T-1
+10906	added: 27	deleted: 10
+USA_ArgoversePIT-2_0_T-1
+19304	added: 22	deleted: 8
+USA_ArgoverseMIA-519_0_T-1
+85213	added: 77	deleted: 2
+USA_ArgoverseMIA-394_0_T-1
+11101	added: 52	deleted: 2
+USA_ArgoversePIT-359_0_T-1
+2150	added: 17	deleted: 15
+USA_ArgoversePIT-2_0_T-1
+19304	added: 19	deleted: 8
+USA_ArgoverseMIA-519_0_T-1
+85225	added: 21	deleted: 7
+USA_ArgoverseMIA-616_0_T-1
+71469	added: 32	deleted: 2
+USA_ArgoverseMIA-120_0_T-1
+757	added: 77	deleted: 5
+USA_ArgoverseMIA-519_0_T-1
+85227	added: 20	deleted: 3
+USA_ArgoversePIT-2_0_T-1
+19304	added: 66	deleted: 2
+USA_ArgoverseMIA-519_0_T-1
+85238	added: 34	deleted: 2
+USA_ArgoverseMIA-120_0_T-1
+1613	added: 54	deleted: 2
+USA_ArgoversePIT-577_0_T-1
+20386	added: 14	deleted: 12
+USA_ArgoversePIT-465_0_T-1
+48357	added: 19	deleted: 12
+USA_ArgoverseMIA-339_0_T-1
+16999	added: 18	deleted: 2
+USA_ArgoverseMIA-646_0_T-1
+31539	added: 37	deleted: 23
+USA_ArgoverseMIA-519_0_T-1
+85238	added: 40	deleted: 8
+USA_ArgoverseMIA-10_0_T-1
+79215	added: 28	deleted: 18
+USA_ArgoverseMIA-574_0_T-1
+10996	added: 19	deleted: 7
+USA_ArgoverseMIA-339_0_T-1
+17527	added: 27	deleted: 10
+USA_ArgoverseMIA-874_0_T-1
+23754	added: 37	deleted: 10
+USA_ArgoversePIT-518_0_T-1
+1989	added: 17	deleted: 10
+USA_ArgoverseMIA-574_0_T-1
+11187	added: 96	deleted: 2
+USA_ArgoverseMIA-10_0_T-1
+79742	added: 53	deleted: 4
+USA_ArgoverseMIA-574_0_T-1
+11216	added: 17	deleted: 2
+USA_ArgoversePIT-624_0_T-1
+168688	added: 38	deleted: 9
+USA_ArgoverseMIA-464_0_T-1
+22988	added: 28	deleted: 8
+USA_ArgoverseMIA-574_0_T-1
+11235	added: 42	deleted: 3
+USA_ArgoversePIT-636_0_T-1
+165515	added: 18	deleted: 6
+USA_ArgoverseMIA-714_0_T-1
+54840	added: 13	deleted: 4
+USA_ArgoverseMIA-120_0_T-1
+1634	added: 41	deleted: 34
+USA_ArgoverseMIA-10_0_T-1
+79745	added: 25	deleted: 23
+USA_ArgoversePIT-518_0_T-1
+2030	added: 35	deleted: 22
+USA_ArgoverseMIA-827_0_T-1
+46609	added: 20	deleted: 18
+USA_ArgoverseMIA-339_0_T-1
+17673	added: 42	deleted: 18
+USA_ArgoverseMIA-646_0_T-1
+31599	added: 41	deleted: 36
+USA_ArgoverseMIA-10_0_T-1
+79747	added: 83	deleted: 2
+USA_ArgoverseMIA-827_0_T-1
+46625	added: 16	deleted: 8
+USA_ArgoversePIT-801_0_T-1
+5668	added: 24	deleted: 12
+USA_ArgoverseMIA-77_0_T-1
+78314	added: 58	deleted: 2
+USA_ArgoverseMIA-10_0_T-1
+79747	added: 83	deleted: 2
+USA_ArgoverseMIA-77_0_T-1
+78377	added: 43	deleted: 3
+USA_ArgoverseMIA-770_0_T-1
+12899	added: 53	deleted: 2
+USA_ArgoverseMIA-550_0_T-1
+16673	added: 24	deleted: 9
+USA_ArgoverseMIA-770_0_T-1
+12940	added: 24	deleted: 2
+USA_ArgoverseMIA-646_0_T-1
+31599	added: 26	deleted: 21
+USA_ArgoverseMIA-77_0_T-1
+78377	added: 46	deleted: 3
+USA_ArgoverseMIA-339_0_T-1
+17742	added: 113	deleted: 2
+USA_ArgoverseMIA-770_0_T-1
+12940	added: 67	deleted: 2
+USA_ArgoverseMIA-816_0_T-1
+68185	added: 37	deleted: 5
+USA_ArgoverseMIA-78_0_T-1
+96851	added: 47	deleted: 2
+USA_ArgoverseMIA-368_0_T-1
+20150	added: 22	deleted: 2
+USA_ArgoverseMIA-78_0_T-1
+96889	added: 17	deleted: 8
+USA_ArgoverseMIA-368_0_T-1
+20167	added: 40	deleted: 2
+USA_ArgoverseMIA-240_0_T-1
+38075	added: 31	deleted: 2
+USA_ArgoverseMIA-368_0_T-1
+20184	added: 21	deleted: 2
+USA_ArgoverseMIA-10_0_T-1
+79747	added: 265	deleted: 2
+USA_ArgoversePIT-234_0_T-1
+92452	added: 15	deleted: 11
+USA_ArgoverseMIA-368_0_T-1
+20184	added: 49	deleted: 2
+USA_ArgoverseMIA-10_0_T-1
+79753	added: 41	deleted: 2
+USA_ArgoversePIT-605_0_T-1
+6987	added: 65	deleted: 13
+USA_ArgoverseMIA-240_0_T-1
+38173	added: 81	deleted: 2
+USA_ArgoverseMIA-600_0_T-1
+15504	added: 30	deleted: 19
+USA_ArgoverseMIA-368_0_T-1
+20187	added: 42	deleted: 2
+USA_ArgoverseMIA-600_0_T-1
+15543	added: 17	deleted: 2
+USA_ArgoverseMIA-326_0_T-1
+35646	added: 29	deleted: 9
+USA_ArgoversePIT-725_0_T-1
+54191	added: 104	deleted: 2
+USA_ArgoverseMIA-347_0_T-1
+7098	added: 37	deleted: 2
+USA_ArgoverseMIA-240_0_T-1
+38219	added: 27	deleted: 11
+USA_ArgoverseMIA-608_0_T-1
+37132	added: 21	deleted: 8
+USA_ArgoverseMIA-10_0_T-1
+79787	added: 41	deleted: 8
+USA_ArgoversePIT-194_0_T-1
+40550	added: 17	deleted: 5
+USA_ArgoverseMIA-600_0_T-1
+15599	added: 116	deleted: 2
+USA_ArgoversePIT-725_0_T-1
+54225	added: 24	deleted: 8
+USA_ArgoverseMIA-600_0_T-1
+15611	added: 27	deleted: 2
+USA_ArgoverseMIA-10_0_T-1
+79792	added: 51	deleted: 2
+USA_ArgoverseMIA-240_0_T-1
+38264	added: 71	deleted: 2
+USA_ArgoverseMIA-883_0_T-1
+54292	added: 54	deleted: 48
+USA_ArgoverseMIA-704_0_T-1
+21466	added: 20	deleted: 10
+USA_ArgoverseMIA-536_0_T-1
+55629	added: 31	deleted: 2
+USA_ArgoverseMIA-704_0_T-1
+21626	added: 42	deleted: 2
+USA_ArgoverseMIA-821_0_T-1
+96361	added: 27	deleted: 9
+USA_ArgoverseMIA-600_0_T-1
+15626	added: 107	deleted: 2
+USA_ArgoverseMIA-536_0_T-1
+55629	added: 71	deleted: 2
+USA_ArgoverseMIA-129_0_T-1
+27934	added: 68	deleted: 2
+USA_ArgoverseMIA-53_0_T-1
+51754	added: 39	deleted: 2
+USA_ArgoverseMIA-600_0_T-1
+15627	added: 17	deleted: 6
+USA_ArgoverseMIA-755_0_T-1
+34147	added: 54	deleted: 5
+USA_ArgoverseMIA-600_0_T-1
+15644	added: 17	deleted: 2
+USA_ArgoverseMIA-53_0_T-1
+51793	added: 32	deleted: 2
+USA_ArgoversePIT-207_0_T-1
+140501	added: 15	deleted: 10
+USA_ArgoverseMIA-129_0_T-1
+27938	added: 49	deleted: 3
+USA_ArgoverseMIA-755_0_T-1
+34173	added: 39	deleted: 2
+USA_ArgoverseMIA-821_0_T-1
+96439	added: 107	deleted: 2
+USA_ArgoverseMIA-633_0_T-1
+166585	added: 27	deleted: 10
+USA_ArgoverseMIA-53_0_T-1
+51793	added: 64	deleted: 2
+USA_ArgoverseMIA-600_0_T-1
+15646	added: 27	deleted: 8
+USA_ArgoverseMIA-217_0_T-1
+47035	added: 36	deleted: 2
+USA_ArgoverseMIA-633_0_T-1
+166595	added: 17	deleted: 7
+USA_ArgoverseMIA-438_0_T-1
+17545	added: 62	deleted: 2
+USA_ArgoverseMIA-335_0_T-1
+15091	added: 69	deleted: 2
+USA_ArgoverseMIA-600_0_T-1
+15664	added: 69	deleted: 2
+USA_ArgoverseMIA-217_0_T-1
+47238	added: 52	deleted: 2
+USA_ArgoverseMIA-335_0_T-1
+15467	added: 16	deleted: 14
+USA_ArgoverseMIA-619_0_T-1
+34999	added: 59	deleted: 2
+USA_ArgoverseMIA-238_0_T-1
+15907	added: 27	deleted: 15
+USA_ArgoverseMIA-238_0_T-1
+16064	added: 14	deleted: 2
+USA_ArgoversePIT-345_0_T-1
+95744	added: 48	deleted: 7
+USA_ArgoverseMIA-662_0_T-1
+68472	added: 30	deleted: 3
+USA_ArgoverseMIA-370_0_T-1
+80670	added: 93	deleted: 1
+USA_ArgoverseMIA-600_0_T-1
+15708	added: 39	deleted: 8
+USA_ArgoverseMIA-370_0_T-1
+80715	added: 25	deleted: 8
+USA_ArgoverseMIA-662_0_T-1
+68563	added: 22	deleted: 12
+USA_ArgoverseMIA-238_0_T-1
+16087	added: 25	deleted: 16
+USA_ArgoversePIT-508_0_T-1
+109413	added: 104	deleted: 2
+USA_ArgoverseMIA-814_0_T-1
+49996	added: 29	deleted: 8
+USA_ArgoverseMIA-883_0_T-1
+54368	added: 55	deleted: 2
+USA_ArgoversePIT-263_0_T-1
+38435	added: 22	deleted: 2
+USA_ArgoverseMIA-883_0_T-1
+54369	added: 28	deleted: 2
+USA_ArgoverseMIA-197_0_T-1
+18964	added: 54	deleted: 2
+USA_ArgoversePIT-508_0_T-1
+109419	added: 82	deleted: 2
+USA_ArgoverseMIA-814_0_T-1
+49999	added: 84	deleted: 2
+USA_ArgoverseMIA-672_0_T-1
+24525	added: 30	deleted: 2
+USA_ArgoverseMIA-814_0_T-1
+50004	added: 25	deleted: 4
+USA_ArgoverseMIA-270_0_T-1
+16176	added: 24	deleted: 9
+USA_ArgoversePIT-868_0_T-1
+31322	added: 16	deleted: 14
+USA_ArgoverseMIA-600_0_T-1
+15708	added: 60	deleted: 10
+USA_ArgoversePIT-508_0_T-1
+109419	added: 99	deleted: 2
+USA_ArgoverseMIA-197_0_T-1
+18980	added: 24	deleted: 17
+USA_ArgoverseMIA-814_0_T-1
+50045	added: 22	deleted: 10
+USA_ArgoverseMIA-270_0_T-1
+16185	added: 24	deleted: 9
+USA_ArgoversePIT-868_0_T-1
+31465	added: 20	deleted: 10
+USA_ArgoverseMIA-197_0_T-1
+19004	added: 37	deleted: 2
+USA_ArgoversePIT-508_0_T-1
+109428	added: 85	deleted: 2
+USA_ArgoversePIT-145_0_T-1
+20977	added: 25	deleted: 2
+USA_ArgoverseMIA-197_0_T-1
+19006	added: 11	deleted: 7
+USA_ArgoverseMIA-618_0_T-1
+74112	added: 28	deleted: 8
+USA_ArgoversePIT-231_0_T-1
+27755	added: 25	deleted: 18
+USA_ArgoversePIT-145_0_T-1
+20977	added: 49	deleted: 2
+USA_ArgoversePIT-508_0_T-1
+109464	added: 93	deleted: 2
+USA_ArgoverseMIA-749_0_T-1
+26884	added: 30	deleted: 8
+USA_ArgoverseMIA-197_0_T-1
+19006	added: 40	deleted: 6
+USA_ArgoversePIT-726_0_T-1
+12730	added: 37	deleted: 2
+USA_ArgoversePIT-231_0_T-1
+27755	added: 22	deleted: 15
+USA_ArgoverseMIA-197_0_T-1
+19030	added: 19	deleted: 10
+USA_ArgoverseMIA-181_0_T-1
+44379	added: 18	deleted: 11
+USA_ArgoversePIT-383_0_T-1
+57436	added: 88	deleted: 2
+USA_ArgoverseMIA-53_0_T-1
+51829	added: 73	deleted: 29
+USA_ArgoversePIT-231_0_T-1
+27764	added: 66	deleted: 2
+USA_ArgoverseMIA-749_0_T-1
+26909	added: 25	deleted: 11
+USA_ArgoverseMIA-323_0_T-1
+8725	added: 15	deleted: 3
+USA_ArgoversePIT-267_0_T-1
+1230	added: 21	deleted: 10
+USA_ArgoverseMIA-181_0_T-1
+44379	added: 47	deleted: 2
+USA_ArgoverseMIA-272_0_T-1
+5455	added: 24	deleted: 5
+USA_ArgoversePIT-622_0_T-1
+54637	added: 17	deleted: 7
+USA_ArgoversePIT-267_0_T-1
+1230	added: 26	deleted: 5
+USA_ArgoverseMIA-181_0_T-1
+44525	added: 19	deleted: 7
+USA_ArgoversePIT-398_0_T-1
+1794	added: 18	deleted: 11
+USA_ArgoverseMIA-511_0_T-1
+47960	added: 25	deleted: 2
+USA_ArgoverseMIA-53_0_T-1
+51865	added: 34	deleted: 10
+USA_ArgoverseMIA-20_0_T-1
+28487	added: 39	deleted: 2
+USA_ArgoverseMIA-433_0_T-1
+7598	added: 54	deleted: 2
+USA_ArgoverseMIA-174_0_T-1
+13636	added: 49	deleted: 2
+USA_ArgoverseMIA-511_0_T-1
+47995	added: 52	deleted: 2
+USA_ArgoverseMIA-433_0_T-1
+7602	added: 34	deleted: 2
+USA_ArgoverseMIA-284_0_T-1
+86176	added: 71	deleted: 2
+USA_ArgoverseMIA-53_0_T-1
+51871	added: 64	deleted: 2
+USA_ArgoverseMIA-174_0_T-1
+13659	added: 21	deleted: 10
+USA_ArgoverseMIA-472_0_T-1
+33209	added: 28	deleted: 7
+USA_ArgoverseMIA-511_0_T-1
+48007	added: 82	deleted: 2
+USA_ArgoverseMIA-511_0_T-1
+48016	added: 14	deleted: 2
+USA_ArgoverseMIA-812_0_T-1
+508	added: 11	deleted: 2
+USA_ArgoverseMIA-621_0_T-1
+16085	added: 17	deleted: 3
+USA_ArgoverseMIA-53_0_T-1
+51925	added: 22	deleted: 10
+USA_ArgoverseMIA-103_0_T-1
+25973	added: 22	deleted: 13
+USA_ArgoverseMIA-110_0_T-1
+60895	added: 27	deleted: 22
+USA_ArgoverseMIA-20_0_T-1
+28501	added: 45	deleted: 2
+USA_ArgoverseMIA-174_0_T-1
+13659	added: 99	deleted: 2
+USA_ArgoverseMIA-621_0_T-1
+16149	added: 52	deleted: 2
+USA_ArgoverseMIA-511_0_T-1
+48043	added: 27	deleted: 12
+USA_ArgoverseMIA-346_0_T-1
+34183	added: 76	deleted: 2
+USA_ArgoverseMIA-334_0_T-1
+30658	added: 13	deleted: 6
+USA_ArgoversePIT-739_0_T-1
+74596	added: 19	deleted: 9
+USA_ArgoverseMIA-110_0_T-1
+60895	added: 24	deleted: 12
+USA_ArgoverseMIA-20_0_T-1
+28508	added: 21	deleted: 14
+USA_ArgoversePIT-673_0_T-1
+28981	added: 16	deleted: 6
+USA_ArgoverseMIA-414_0_T-1
+65048	added: 108	deleted: 2
+USA_ArgoversePIT-739_0_T-1
+74604	added: 25	deleted: 10
+USA_ArgoverseMIA-511_0_T-1
+48055	added: 44	deleted: 7
+USA_ArgoverseMIA-110_0_T-1
+60934	added: 36	deleted: 9
+USA_ArgoverseMIA-414_0_T-1
+65247	added: 69	deleted: 2
+USA_ArgoversePIT-420_0_T-1
+3693	added: 35	deleted: 6
+USA_ArgoversePIT-870_0_T-1
+146198	added: 27	deleted: 8
+USA_ArgoverseMIA-790_0_T-1
+10980	added: 69	deleted: 2
+USA_ArgoversePIT-165_0_T-1
+11553	added: 29	deleted: 2
+USA_ArgoverseMIA-329_0_T-1
+33522	added: 23	deleted: 13
+USA_ArgoverseMIA-414_0_T-1
+65247	added: 76	deleted: 2
+USA_ArgoversePIT-870_0_T-1
+146205	added: 20	deleted: 2
+USA_ArgoverseMIA-414_0_T-1
+65350	added: 26	deleted: 2
+USA_ArgoverseMIA-131_0_T-1
+50130	added: 49	deleted: 2
+USA_ArgoverseMIA-329_0_T-1
+33522	added: 42	deleted: 2
+USA_ArgoverseMIA-790_0_T-1
+10989	added: 56	deleted: 2
+USA_ArgoversePIT-165_0_T-1
+11568	added: 16	deleted: 14
+USA_ArgoverseMIA-346_0_T-1
+34185	added: 41	deleted: 24
+USA_ArgoverseMIA-790_0_T-1
+11008	added: 71	deleted: 2
+USA_ArgoverseMIA-507_0_T-1
+40207	added: 44	deleted: 5
+USA_ArgoverseMIA-790_0_T-1
+11008	added: 71	deleted: 2
+USA_ArgoversePIT-165_0_T-1
+11568	added: 34	deleted: 11
+USA_ArgoversePIT-585_0_T-1
+36891	added: 20	deleted: 2
+USA_ArgoverseMIA-859_0_T-1
+17656	added: 20	deleted: 11
+USA_ArgoverseMIA-580_0_T-1
+23185	added: 41	deleted: 7
+USA_ArgoverseMIA-110_0_T-1
+60945	added: 21	deleted: 11
+USA_ArgoverseMIA-131_0_T-1
+50340	added: 25	deleted: 15
+USA_ArgoversePIT-15_0_T-1
+3331	added: 28	deleted: 2
+USA_ArgoverseMIA-414_0_T-1
+65405	added: 33	deleted: 31
+USA_ArgoverseMIA-414_0_T-1
+65425	added: 21	deleted: 2
+USA_ArgoversePIT-15_0_T-1
+3331	added: 64	deleted: 2
+USA_ArgoverseMIA-116_0_T-1
+8923	added: 55	deleted: 3
+USA_ArgoverseMIA-859_0_T-1
+17656	added: 48	deleted: 6
+USA_ArgoverseMIA-580_0_T-1
+23185	added: 64	deleted: 5
+USA_ArgoversePIT-765_0_T-1
+44654	added: 31	deleted: 9
+USA_ArgoverseMIA-295_0_T-1
+3503	added: 39	deleted: 2
+USA_ArgoverseMIA-414_0_T-1
+65425	added: 121	deleted: 2
+USA_ArgoverseMIA-819_0_T-1
+32896	added: 17	deleted: 10
+USA_ArgoverseMIA-607_0_T-1
+107887	added: 55	deleted: 5
+USA_ArgoverseMIA-667_0_T-1
+59635	added: 18	deleted: 11
+USA_ArgoverseMIA-295_0_T-1
+3503	added: 66	deleted: 2
+USA_ArgoversePIT-371_0_T-1
+99563	added: 69	deleted: 2
+USA_ArgoverseMIA-607_0_T-1
+107932	added: 35	deleted: 5
+USA_ArgoverseMIA-859_0_T-1
+17757	added: 45	deleted: 8
+USA_ArgoverseMIA-667_0_T-1
+59635	added: 71	deleted: 2
+USA_ArgoverseMIA-533_0_T-1
+71501	added: 31	deleted: 6
+USA_ArgoverseMIA-607_0_T-1
+107944	added: 26	deleted: 9
+USA_ArgoverseMIA-878_0_T-1
+7204	added: 21	deleted: 7
+USA_ArgoverseMIA-859_0_T-1
+17981	added: 22	deleted: 10
+USA_ArgoverseMIA-607_0_T-1
+107958	added: 27	deleted: 2
+USA_ArgoversePIT-421_0_T-1
+792	added: 36	deleted: 6
+USA_ArgoverseMIA-23_0_T-1
+82896	added: 24	deleted: 2
+USA_ArgoverseMIA-414_0_T-1
+65534	added: 41	deleted: 14
+USA_ArgoverseMIA-533_0_T-1
+71503	added: 34	deleted: 6
+USA_ArgoverseMIA-414_0_T-1
+65580	added: 24	deleted: 2
+USA_ArgoverseMIA-859_0_T-1
+17994	added: 74	deleted: 2
+USA_ArgoverseMIA-878_0_T-1
+7287	added: 55	deleted: 3
+USA_ArgoverseMIA-58_0_T-1
+34741	added: 31	deleted: 27
+USA_ArgoversePIT-211_0_T-1
+185413	added: 16	deleted: 2
+USA_ArgoversePIT-421_0_T-1
+1643	added: 21	deleted: 14
+USA_ArgoverseMIA-859_0_T-1
+18003	added: 17	deleted: 9
+USA_ArgoverseMIA-414_0_T-1
+65591	added: 59	deleted: 2
+USA_ArgoversePIT-211_0_T-1
+185466	added: 28	deleted: 7
+USA_ArgoverseMIA-828_0_T-1
+15843	added: 36	deleted: 6
+USA_ArgoverseMIA-878_0_T-1
+7305	added: 46	deleted: 5
+USA_ArgoversePIT-623_0_T-1
+13548	added: 16	deleted: 2
+USA_ArgoverseMIA-859_0_T-1
+18010	added: 44	deleted: 5
+USA_ArgoverseMIA-537_0_T-1
+41139	added: 66	deleted: 2
+USA_ArgoverseMIA-58_0_T-1
+34796	added: 53	deleted: 7
+USA_ArgoverseMIA-828_0_T-1
+15843	added: 92	deleted: 2
+USA_ArgoverseMIA-84_0_T-1
+123084	added: 28	deleted: 3
+USA_ArgoversePIT-693_0_T-1
+120488	added: 34	deleted: 6
+USA_ArgoverseMIA-113_0_T-1
+31275	added: 37	deleted: 22
+USA_ArgoversePIT-6_0_T-1
+11240	added: 58	deleted: 4
+USA_ArgoverseMIA-493_0_T-1
+21254	added: 20	deleted: 7
+USA_ArgoverseMIA-830_0_T-1
+76317	added: 73	deleted: 2
+USA_ArgoversePIT-693_0_T-1
+120488	added: 62	deleted: 3
+USA_ArgoverseMIA-493_0_T-1
+21367	added: 48	deleted: 2
+USA_ArgoverseMIA-828_0_T-1
+15847	added: 66	deleted: 2
+USA_ArgoverseMIA-830_0_T-1
+76379	added: 21	deleted: 12
+USA_ArgoverseMIA-847_0_T-1
+14489	added: 27	deleted: 2
+USA_ArgoverseMIA-493_0_T-1
+21367	added: 168	deleted: 1
+USA_ArgoverseMIA-828_0_T-1
+15852	added: 64	deleted: 2
+USA_ArgoverseMIA-320_0_T-1
+37135	added: 19	deleted: 7
+USA_ArgoverseMIA-261_0_T-1
+8480	added: 36	deleted: 2
+USA_ArgoverseMIA-543_0_T-1
+36706	added: 35	deleted: 9
+USA_ArgoverseMIA-828_0_T-1
+15890	added: 36	deleted: 2
+USA_ArgoverseMIA-58_0_T-1
+34796	added: 75	deleted: 9
+USA_ArgoverseMIA-543_0_T-1
+37319	added: 17	deleted: 9
+USA_ArgoverseMIA-320_0_T-1
+37135	added: 79	deleted: 2
+USA_ArgoverseMIA-245_0_T-1
+24124	added: 26	deleted: 2
+USA_ArgoverseMIA-245_0_T-1
+24450	added: 52	deleted: 1
+USA_ArgoverseMIA-148_0_T-1
+75289	added: 32	deleted: 7
+USA_ArgoverseMIA-496_0_T-1
+38290	added: 44	deleted: 2
+USA_ArgoverseMIA-320_0_T-1
+37211	added: 21	deleted: 5
+USA_ArgoversePIT-597_0_T-1
+2109	added: 59	deleted: 2
+USA_ArgoverseMIA-543_0_T-1
+37327	added: 54	deleted: 3
+USA_ArgoverseMIA-496_0_T-1
+38290	added: 39	deleted: 2
+USA_ArgoverseMIA-320_0_T-1
+37249	added: 16	deleted: 4
+USA_ArgoverseMIA-493_0_T-1
+21378	added: 180	deleted: 2
+USA_ArgoverseMIA-245_0_T-1
+24462	added: 72	deleted: 2
+USA_ArgoversePIT-183_0_T-1
+80699	added: 27	deleted: 5
+USA_ArgoverseMIA-245_0_T-1
+24463	added: 28	deleted: 2
+USA_ArgoverseMIA-493_0_T-1
+21394	added: 43	deleted: 2
+USA_ArgoverseMIA-327_0_T-1
+7769	added: 125	deleted: 1
+USA_ArgoverseMIA-320_0_T-1
+37273	added: 20	deleted: 11
+USA_ArgoverseMIA-493_0_T-1
+21402	added: 22	deleted: 2
+USA_ArgoverseMIA-327_0_T-1
+7776	added: 26	deleted: 3
+USA_ArgoverseMIA-245_0_T-1
+24505	added: 66	deleted: 2
+USA_ArgoverseMIA-327_0_T-1
+7791	added: 18	deleted: 3
+USA_ArgoverseMIA-683_0_T-1
+8536	added: 54	deleted: 2
+USA_ArgoverseMIA-493_0_T-1
+21402	added: 61	deleted: 2
+USA_ArgoverseMIA-493_0_T-1
+21403	added: 24	deleted: 3
+USA_ArgoverseMIA-731_0_T-1
+17079	added: 50	deleted: 31
+USA_ArgoverseMIA-683_0_T-1
+8616	added: 59	deleted: 2
+USA_ArgoverseMIA-493_0_T-1
+21405	added: 18	deleted: 2
+USA_ArgoverseMIA-327_0_T-1
+7792	added: 24	deleted: 11
+USA_ArgoverseMIA-731_0_T-1
+17079	added: 47	deleted: 2
+USA_ArgoverseMIA-245_0_T-1
+24509	added: 30	deleted: 9
+USA_ArgoverseMIA-327_0_T-1
+7792	added: 38	deleted: 2
+USA_ArgoverseMIA-327_0_T-1
+7805	added: 26	deleted: 2
+USA_ArgoversePIT-132_0_T-1
+38773	added: 40	deleted: 3
+USA_ArgoverseMIA-731_0_T-1
+19190	added: 24	deleted: 7
+USA_ArgoverseMIA-245_0_T-1
+24602	added: 20	deleted: 10
+USA_ArgoversePIT-213_0_T-1
+94892	added: 39	deleted: 7
+USA_ArgoversePIT-818_0_T-1
+102886	added: 111	deleted: 2
+USA_ArgoverseMIA-838_0_T-1
+39044	added: 21	deleted: 2
+USA_ArgoverseMIA-333_0_T-1
+2920	added: 35	deleted: 2
+USA_ArgoverseMIA-189_0_T-1
+17151	added: 25	deleted: 9
+USA_ArgoverseMIA-333_0_T-1
+2948	added: 28	deleted: 3
+USA_ArgoverseMIA-189_0_T-1
+17175	added: 37	deleted: 2
+USA_ArgoversePIT-562_0_T-1
+37382	added: 21	deleted: 12
+USA_ArgoverseMIA-604_0_T-1
+51821	added: 22	deleted: 5
+USA_ArgoverseMIA-437_0_T-1
+14190	added: 90	deleted: 2
+USA_ArgoversePIT-562_0_T-1
+37407	added: 32	deleted: 2
+USA_ArgoverseMIA-437_0_T-1
+14210	added: 21	deleted: 4
+USA_ArgoverseMIA-92_0_T-1
+65345	added: 38	deleted: 2
+USA_ArgoverseMIA-768_0_T-1
+12693	added: 20	deleted: 2
+USA_ArgoverseMIA-437_0_T-1
+14210	added: 42	deleted: 2
+USA_ArgoversePIT-279_0_T-1
+109019	added: 84	deleted: 4
+USA_ArgoversePIT-635_0_T-1
+27542	added: 21	deleted: 10
+USA_ArgoverseMIA-437_0_T-1
+14232	added: 24	deleted: 5
+USA_ArgoverseMIA-768_0_T-1
+13043	added: 18	deleted: 16
+USA_ArgoverseMIA-320_0_T-1
+37283	added: 50	deleted: 44
+USA_ArgoversePIT-279_0_T-1
+109019	added: 82	deleted: 2
+USA_ArgoversePIT-453_0_T-1
+21403	added: 49	deleted: 2
+USA_ArgoverseMIA-210_0_T-1
+20558	added: 19	deleted: 3
+USA_ArgoverseMIA-768_0_T-1
+13066	added: 36	deleted: 2
+USA_ArgoverseMIA-175_0_T-1
+12931	added: 12	deleted: 4
+USA_ArgoverseMIA-283_0_T-1
+49626	added: 31	deleted: 18
+USA_ArgoverseMIA-210_0_T-1
+20770	added: 86	deleted: 2
+USA_ArgoverseMIA-283_0_T-1
+49743	added: 17	deleted: 2
+USA_ArgoverseMIA-716_0_T-1
+50135	added: 15	deleted: 10
+USA_ArgoverseMIA-768_0_T-1
+13066	added: 134	deleted: 2
+USA_ArgoverseMIA-210_0_T-1
+20802	added: 56	deleted: 2
+USA_ArgoverseMIA-14_0_T-1
+116603	added: 24	deleted: 18
+USA_ArgoversePIT-279_0_T-1
+109019	added: 87	deleted: 4
+USA_ArgoverseMIA-625_0_T-1
+7815	added: 24	deleted: 3
+USA_ArgoverseMIA-686_0_T-1
+3462	added: 47	deleted: 2
+USA_ArgoverseMIA-496_0_T-1
+38339	added: 44	deleted: 2
+USA_ArgoverseMIA-210_0_T-1
+20815	added: 85	deleted: 2
+USA_ArgoverseMIA-14_0_T-1
+116644	added: 76	deleted: 2
+USA_ArgoverseMIA-857_0_T-1
+16438	added: 17	deleted: 3
+USA_ArgoverseMIA-768_0_T-1
+13067	added: 28	deleted: 9
+USA_ArgoversePIT-734_0_T-1
+29815	added: 24	deleted: 16
+USA_ArgoverseMIA-496_0_T-1
+38339	added: 39	deleted: 2
+USA_ArgoverseMIA-14_0_T-1
+116680	added: 24	deleted: 5
+USA_ArgoverseMIA-768_0_T-1
+13090	added: 47	deleted: 2
+USA_ArgoverseMIA-210_0_T-1
+20824	added: 33	deleted: 4
+USA_ArgoverseMIA-210_0_T-1
+20825	added: 25	deleted: 6
+USA_ArgoverseMIA-706_0_T-1
+67435	added: 26	deleted: 2
+USA_ArgoversePIT-67_0_T-1
+6695	added: 26	deleted: 9
+USA_ArgoverseMIA-297_0_T-1
+88608	added: 19	deleted: 17
+USA_ArgoversePIT-237_0_T-1
+48404	added: 30	deleted: 8
+USA_ArgoverseMIA-706_0_T-1
+67515	added: 34	deleted: 2
+USA_ArgoverseMIA-210_0_T-1
+20833	added: 22	deleted: 10
+USA_ArgoverseMIA-768_0_T-1
+13106	added: 31	deleted: 13
+USA_ArgoverseMIA-706_0_T-1
+67611	added: 18	deleted: 2
+USA_ArgoversePIT-237_0_T-1
+48404	added: 32	deleted: 2
+USA_ArgoverseMIA-297_0_T-1
+88933	added: 13	deleted: 11
+USA_ArgoverseMIA-164_0_T-1
+20378	added: 27	deleted: 8
+USA_ArgoverseMIA-768_0_T-1
+13112	added: 26	deleted: 4
+USA_ArgoversePIT-137_0_T-1
+51763	added: 54	deleted: 2
+USA_ArgoverseMIA-297_0_T-1
+88933	added: 57	deleted: 2
+USA_ArgoverseMIA-706_0_T-1
+67611	added: 87	deleted: 2
+USA_ArgoversePIT-251_0_T-1
+64466	added: 16	deleted: 9
+USA_ArgoversePIT-658_0_T-1
+27109	added: 56	deleted: 2
+USA_ArgoverseMIA-706_0_T-1
+67644	added: 34	deleted: 2
+USA_ArgoversePIT-137_0_T-1
+51775	added: 17	deleted: 10
+USA_ArgoverseMIA-297_0_T-1
+88934	added: 21	deleted: 9
+USA_ArgoversePIT-67_0_T-1
+6809	added: 28	deleted: 23
+USA_ArgoversePIT-166_0_T-1
+198500	added: 58	deleted: 2
+USA_ArgoversePIT-837_0_T-1
+4059	added: 35	deleted: 2
+USA_ArgoverseMIA-706_0_T-1
+67644	added: 79	deleted: 2
+USA_ArgoverseMIA-686_0_T-1
+3462	added: 70	deleted: 15
+USA_ArgoverseMIA-69_0_T-1
+35658	added: 28	deleted: 2
+USA_ArgoverseMIA-703_0_T-1
+54515	added: 18	deleted: 8
+USA_ArgoverseMIA-297_0_T-1
+88973	added: 20	deleted: 12
+USA_ArgoverseMIA-823_0_T-1
+8374	added: 50	deleted: 2
+USA_ArgoverseMIA-706_0_T-1
+67650	added: 38	deleted: 2
+USA_ArgoverseMIA-686_0_T-1
+3463	added: 47	deleted: 2
+USA_ArgoverseMIA-259_0_T-1
+4608	added: 29	deleted: 12
+USA_ArgoverseMIA-706_0_T-1
+67657	added: 34	deleted: 2
+USA_ArgoversePIT-837_0_T-1
+4071	added: 27	deleted: 10
+USA_ArgoverseMIA-297_0_T-1
+88973	added: 60	deleted: 2
+USA_ArgoversePIT-124_0_T-1
+58708	added: 22	deleted: 2
+USA_ArgoverseMIA-686_0_T-1
+3463	added: 62	deleted: 2
+USA_ArgoversePIT-124_0_T-1
+58708	added: 27	deleted: 2
+USA_ArgoverseMIA-69_0_T-1
+36105	added: 28	deleted: 9
+USA_ArgoversePIT-152_0_T-1
+29253	added: 43	deleted: 2
+USA_ArgoverseMIA-823_0_T-1
+8374	added: 108	deleted: 2
+USA_ArgoverseMIA-706_0_T-1
+67657	added: 79	deleted: 2
+USA_ArgoverseMIA-315_0_T-1
+43399	added: 19	deleted: 7
+USA_ArgoversePIT-687_0_T-1
+64484	added: 22	deleted: 2
+USA_ArgoverseMIA-377_0_T-1
+19405	added: 18	deleted: 9
+USA_ArgoverseMIA-377_0_T-1
+19408	added: 19	deleted: 2
+USA_ArgoversePIT-124_0_T-1
+58708	added: 58	deleted: 4
+USA_ArgoverseMIA-617_0_T-1
+36299	added: 79	deleted: 2
+USA_ArgoversePIT-124_0_T-1
+58741	added: 22	deleted: 2
+USA_ArgoverseMIA-297_0_T-1
+88977	added: 28	deleted: 20
+USA_ArgoversePIT-687_0_T-1
+64484	added: 91	deleted: 2
+USA_ArgoversePIT-124_0_T-1
+58741	added: 27	deleted: 2
+USA_ArgoverseMIA-441_0_T-1
+33967	added: 39	deleted: 2
+USA_ArgoverseMIA-686_0_T-1
+3464	added: 62	deleted: 7
+USA_ArgoverseMIA-654_0_T-1
+13245	added: 62	deleted: 1
+USA_ArgoversePIT-124_0_T-1
+58741	added: 56	deleted: 2
+USA_ArgoverseMIA-706_0_T-1
+67677	added: 34	deleted: 16
+USA_ArgoverseMIA-297_0_T-1
+88990	added: 23	deleted: 10
+USA_ArgoverseMIA-654_0_T-1
+13274	added: 22	deleted: 3
+USA_ArgoversePIT-687_0_T-1
+64637	added: 28	deleted: 10
+USA_ArgoverseMIA-706_0_T-1
+67693	added: 23	deleted: 8
+USA_ArgoverseMIA-262_0_T-1
+57948	added: 22	deleted: 10
+USA_ArgoverseMIA-297_0_T-1
+88990	added: 106	deleted: 2
+USA_ArgoverseMIA-724_0_T-1
+53842	added: 13	deleted: 3
+USA_ArgoversePIT-687_0_T-1
+64691	added: 24	deleted: 15
+USA_ArgoverseMIA-654_0_T-1
+13295	added: 29	deleted: 14
+USA_ArgoverseMIA-297_0_T-1
+89019	added: 27	deleted: 5
+USA_ArgoverseMIA-654_0_T-1
+13297	added: 17	deleted: 2
+USA_ArgoverseMIA-350_0_T-1
+56006	added: 16	deleted: 2
+USA_ArgoverseMIA-297_0_T-1
+89019	added: 63	deleted: 2
+USA_ArgoverseMIA-352_0_T-1
+9115	added: 25	deleted: 11
+USA_ArgoverseMIA-297_0_T-1
+89048	added: 75	deleted: 2
+USA_ArgoverseMIA-631_0_T-1
+84276	added: 16	deleted: 11
+USA_ArgoversePIT-220_0_T-1
+2679	added: 24	deleted: 17
+USA_ArgoverseMIA-718_0_T-1
+84041	added: 31	deleted: 23
+USA_ArgoverseMIA-352_0_T-1
+9131	added: 50	deleted: 4
+USA_ArgoversePIT-220_0_T-1
+2689	added: 19	deleted: 2
+USA_ArgoverseMIA-350_0_T-1
+56039	added: 29	deleted: 15
+USA_ArgoverseMIA-718_0_T-1
+84041	added: 18	deleted: 8
+USA_ArgoverseMIA-352_0_T-1
+9173	added: 52	deleted: 2
+USA_ArgoverseMIA-297_0_T-1
+89064	added: 33	deleted: 6
+USA_ArgoversePIT-880_0_T-1
+12658	added: 15	deleted: 3
+USA_ArgoverseMIA-631_0_T-1
+84276	added: 31	deleted: 7
+USA_ArgoverseMIA-350_0_T-1
+56196	added: 27	deleted: 16
+USA_ArgoverseMIA-823_0_T-1
+8404	added: 29	deleted: 17
+USA_ArgoversePIT-829_0_T-1
+26332	added: 26	deleted: 2
+USA_ArgoverseMIA-350_0_T-1
+56275	added: 58	deleted: 2
+USA_ArgoverseMIA-352_0_T-1
+9255	added: 25	deleted: 11
+USA_ArgoverseMIA-780_0_T-1
+26723	added: 66	deleted: 2
+USA_ArgoverseMIA-158_0_T-1
+264159	added: 61	deleted: 2
+USA_ArgoversePIT-106_0_T-1
+112495	added: 26	deleted: 2
+USA_ArgoverseMIA-350_0_T-1
+56275	added: 78	deleted: 2
+USA_ArgoverseMIA-222_0_T-1
+9891	added: 17	deleted: 10
+USA_ArgoverseMIA-350_0_T-1
+56291	added: 18	deleted: 7
+USA_ArgoverseMIA-780_0_T-1
+26775	added: 19	deleted: 12
+USA_ArgoverseMIA-350_0_T-1
+56300	added: 37	deleted: 3
+USA_ArgoverseMIA-158_0_T-1
+264640	added: 40	deleted: 6
+USA_ArgoversePIT-290_0_T-1
+75109	added: 27	deleted: 12
+USA_ArgoverseMIA-350_0_T-1
+56319	added: 16	deleted: 2
+USA_ArgoverseMIA-664_0_T-1
+37303	added: 15	deleted: 2
+USA_ArgoverseMIA-350_0_T-1
+56319	added: 36	deleted: 2
+USA_ArgoverseMIA-38_0_T-1
+22067	added: 34	deleted: 2
+USA_ArgoverseMIA-664_0_T-1
+37423	added: 77	deleted: 2
+USA_ArgoversePIT-787_0_T-1
+124160	added: 32	deleted: 2
+USA_ArgoverseMIA-38_0_T-1
+22067	added: 56	deleted: 2
+USA_ArgoversePIT-290_0_T-1
+75114	added: 76	deleted: 4
+USA_ArgoversePIT-106_0_T-1
+112577	added: 171	deleted: 3
+USA_ArgoversePIT-106_0_T-1
+112743	added: 29	deleted: 2
+USA_ArgoverseMIA-38_0_T-1
+22067	added: 118	deleted: 1
+USA_ArgoverseMIA-706_0_T-1
+67702	added: 34	deleted: 20
+USA_ArgoverseMIA-38_0_T-1
+22103	added: 44	deleted: 2
+USA_ArgoverseMIA-664_0_T-1
+37473	added: 26	deleted: 18
+USA_ArgoverseMIA-180_0_T-1
+5353	added: 66	deleted: 2
+USA_ArgoverseMIA-706_0_T-1
+67706	added: 54	deleted: 2
+USA_ArgoverseMIA-706_0_T-1
+67719	added: 16	deleted: 2
+USA_ArgoverseMIA-39_0_T-1
+23645	added: 24	deleted: 10
+USA_ArgoversePIT-106_0_T-1
+112743	added: 130	deleted: 2
+USA_ArgoversePIT-274_0_T-1
+68294	added: 22	deleted: 10
+USA_ArgoverseMIA-631_0_T-1
+84292	added: 21	deleted: 15
+USA_ArgoversePIT-32_0_T-1
+51248	added: 20	deleted: 18
+USA_ArgoversePIT-212_0_T-1
+20984	added: 29	deleted: 11
+USA_ArgoverseMIA-170_0_T-1
+8219	added: 17	deleted: 9
+USA_ArgoversePIT-212_0_T-1
+20984	added: 29	deleted: 3
+USA_ArgoversePIT-544_0_T-1
+1513	added: 56	deleted: 2
+USA_ArgoverseMIA-674_0_T-1
+14914	added: 26	deleted: 11
+USA_ArgoversePIT-106_0_T-1
+112743	added: 151	deleted: 2
+USA_ArgoversePIT-544_0_T-1
+1516	added: 33	deleted: 2
+USA_ArgoversePIT-106_0_T-1
+112744	added: 36	deleted: 2
+USA_ArgoversePIT-544_0_T-1
+1517	added: 30	deleted: 3
+USA_ArgoverseMIA-191_0_T-1
+33729	added: 41	deleted: 3
+USA_ArgoverseMIA-260_0_T-1
+42098	added: 53	deleted: 21
+USA_ArgoverseMIA-191_0_T-1
+33868	added: 43	deleted: 2
+USA_ArgoverseMIA-674_0_T-1
+14938	added: 23	deleted: 18
+USA_ArgoversePIT-106_0_T-1
+112744	added: 95	deleted: 2
+USA_ArgoverseMIA-170_0_T-1
+8961	added: 29	deleted: 21
+USA_ArgoverseMIA-170_0_T-1
+8973	added: 27	deleted: 2
+USA_ArgoverseMIA-260_0_T-1
+42098	added: 39	deleted: 4
+USA_ArgoversePIT-229_0_T-1
+17705	added: 16	deleted: 14
+USA_ArgoverseMIA-42_0_T-1
+25603	added: 14	deleted: 12
+USA_ArgoverseMIA-104_0_T-1
+90804	added: 19	deleted: 7
+USA_ArgoverseMIA-260_0_T-1
+42150	added: 29	deleted: 2
+USA_ArgoverseMIA-524_0_T-1
+11150	added: 39	deleted: 19
+USA_ArgoverseMIA-170_0_T-1
+8993	added: 19	deleted: 6
+USA_ArgoversePIT-106_0_T-1
+112747	added: 101	deleted: 2
+USA_ArgoverseMIA-260_0_T-1
+42243	added: 32	deleted: 2
+USA_ArgoverseMIA-42_0_T-1
+25772	added: 17	deleted: 15
+USA_ArgoversePIT-106_0_T-1
+112823	added: 46	deleted: 2
+USA_ArgoverseMIA-485_0_T-1
+12646	added: 54	deleted: 2
+USA_ArgoverseMIA-573_0_T-1
+20633	added: 19	deleted: 13
+USA_ArgoverseMIA-887_0_T-1
+41353	added: 22	deleted: 14
+USA_ArgoverseMIA-524_0_T-1
+11899	added: 39	deleted: 9
+USA_ArgoverseMIA-737_0_T-1
+69703	added: 65	deleted: 3
+USA_ArgoverseMIA-573_0_T-1
+20736	added: 25	deleted: 9
+USA_ArgoverseMIA-144_0_T-1
+26779	added: 104	deleted: 2
+USA_ArgoversePIT-846_0_T-1
+27099	added: 58	deleted: 1
+USA_ArgoversePIT-61_0_T-1
+13750	added: 26	deleted: 12
+USA_ArgoversePIT-559_0_T-1
+10553	added: 23	deleted: 8
+USA_ArgoversePIT-846_0_T-1
+27168	added: 33	deleted: 2
+USA_ArgoversePIT-603_0_T-1
+67626	added: 15	deleted: 5
+USA_ArgoverseMIA-573_0_T-1
+20736	added: 103	deleted: 2
+USA_ArgoverseMIA-860_0_T-1
+15274	added: 31	deleted: 18
+USA_ArgoversePIT-846_0_T-1
+27168	added: 65	deleted: 2
+USA_ArgoversePIT-846_0_T-1
+27209	added: 47	deleted: 2
+USA_ArgoverseMIA-865_0_T-1
+48541	added: 22	deleted: 14
+USA_ArgoverseMIA-396_0_T-1
+16640	added: 21	deleted: 7
+USA_ArgoverseMIA-865_0_T-1
+48541	added: 35	deleted: 2
+USA_ArgoverseMIA-573_0_T-1
+20772	added: 50	deleted: 5
+USA_ArgoversePIT-179_0_T-1
+26753	added: 32	deleted: 20
+USA_ArgoversePIT-90_0_T-1
+178334	added: 21	deleted: 14
+USA_ArgoversePIT-846_0_T-1
+27350	added: 70	deleted: 2
+USA_ArgoverseMIA-144_0_T-1
+26779	added: 223	deleted: 2
+USA_ArgoverseMIA-865_0_T-1
+48671	added: 40	deleted: 2
+USA_ArgoverseMIA-249_0_T-1
+16938	added: 27	deleted: 2
+USA_ArgoversePIT-362_0_T-1
+90630	added: 28	deleted: 2
+USA_ArgoversePIT-846_0_T-1
+27414	added: 17	deleted: 2
+USA_ArgoverseMIA-515_0_T-1
+37998	added: 26	deleted: 6
+USA_ArgoverseMIA-300_0_T-1
+8264	added: 30	deleted: 5
+USA_ArgoverseMIA-300_0_T-1
+8303	added: 20	deleted: 4
+USA_ArgoverseMIA-573_0_T-1
+20792	added: 48	deleted: 9
+USA_ArgoverseMIA-168_0_T-1
+15675	added: 22	deleted: 16
+USA_ArgoverseMIA-144_0_T-1
+26779	added: 211	deleted: 2
+USA_ArgoverseMIA-300_0_T-1
+8315	added: 27	deleted: 4
+USA_ArgoverseMIA-573_0_T-1
+20792	added: 42	deleted: 3
+USA_ArgoverseMIA-249_0_T-1
+17022	added: 31	deleted: 20
+USA_ArgoverseMIA-168_0_T-1
+16214	added: 20	deleted: 6
+USA_ArgoverseMIA-144_0_T-1
+26844	added: 31	deleted: 2
+USA_ArgoverseMIA-515_0_T-1
+38002	added: 25	deleted: 14
+USA_ArgoverseMIA-515_0_T-1
+38002	added: 78	deleted: 2
+USA_ArgoverseMIA-168_0_T-1
+16214	added: 88	deleted: 2
+USA_ArgoverseMIA-573_0_T-1
+20792	added: 74	deleted: 3
+USA_ArgoverseMIA-498_0_T-1
+24066	added: 69	deleted: 2
+USA_ArgoverseMIA-515_0_T-1
+38016	added: 20	deleted: 6
+USA_ArgoverseMIA-498_0_T-1
+24077	added: 44	deleted: 2
+USA_ArgoverseMIA-573_0_T-1
+20795	added: 20	deleted: 9
+USA_ArgoverseMIA-168_0_T-1
+16237	added: 30	deleted: 7
+USA_ArgoversePIT-846_0_T-1
+27524	added: 73	deleted: 10
+USA_ArgoverseMIA-224_0_T-1
+29358	added: 32	deleted: 2
+USA_ArgoverseMIA-573_0_T-1
+20795	added: 61	deleted: 2
+USA_ArgoverseMIA-224_0_T-1
+29505	added: 40	deleted: 2
+USA_ArgoverseMIA-144_0_T-1
+26856	added: 240	deleted: 2
+USA_ArgoverseMIA-144_0_T-1
+26873	added: 24	deleted: 2
+USA_ArgoversePIT-677_0_T-1
+121715	added: 35	deleted: 2
+USA_ArgoverseMIA-833_0_T-1
+19972	added: 39	deleted: 2
+USA_ArgoversePIT-31_0_T-1
+62275	added: 29	deleted: 17
+USA_ArgoverseMIA-224_0_T-1
+29505	added: 119	deleted: 2
+USA_ArgoverseMIA-144_0_T-1
+26879	added: 90	deleted: 2
+USA_ArgoverseMIA-423_0_T-1
+35895	added: 62	deleted: 2
+USA_ArgoversePIT-677_0_T-1
+121741	added: 45	deleted: 7
+USA_ArgoversePIT-99_0_T-1
+120585	added: 12	deleted: 3
+USA_ArgoverseMIA-224_0_T-1
+29519	added: 23	deleted: 10
+USA_ArgoverseMIA-144_0_T-1
+26897	added: 107	deleted: 2
+USA_ArgoverseMIA-312_0_T-1
+83085	added: 24	deleted: 3
+USA_ArgoversePIT-99_0_T-1
+120590	added: 20	deleted: 15
+USA_ArgoverseMIA-224_0_T-1
+29547	added: 27	deleted: 7
+USA_ArgoverseMIA-445_0_T-1
+71760	added: 43	deleted: 8
+USA_ArgoverseMIA-224_0_T-1
+29563	added: 25	deleted: 2
+USA_ArgoverseMIA-349_0_T-1
+71765	added: 27	deleted: 2
+USA_ArgoverseMIA-292_0_T-1
+26908	added: 29	deleted: 8
+USA_ArgoverseMIA-292_0_T-1
+26945	added: 24	deleted: 2
+USA_ArgoverseMIA-349_0_T-1
+71930	added: 64	deleted: 2
+USA_ArgoverseMIA-144_0_T-1
+26897	added: 170	deleted: 2
+USA_ArgoverseMIA-224_0_T-1
+29563	added: 108	deleted: 2
+USA_ArgoverseMIA-332_0_T-1
+18232	added: 43	deleted: 29
+USA_ArgoversePIT-121_0_T-1
+32934	added: 19	deleted: 17
+USA_ArgoverseMIA-292_0_T-1
+26978	added: 76	deleted: 2
+USA_ArgoversePIT-754_0_T-1
+93790	added: 67	deleted: 3
+USA_ArgoverseMIA-144_0_T-1
+26901	added: 91	deleted: 2
+USA_ArgoverseMIA-16_0_T-1
+215720	added: 21	deleted: 2
+USA_ArgoverseMIA-16_0_T-1
+215861	added: 9	deleted: 3
+USA_ArgoverseMIA-144_0_T-1
+26910	added: 33	deleted: 2
+USA_ArgoverseMIA-786_0_T-1
+16755	added: 91	deleted: 2
+USA_ArgoverseMIA-786_0_T-1
+16758	added: 18	deleted: 2
+USA_ArgoverseMIA-16_0_T-1
+215861	added: 72	deleted: 1
+USA_ArgoverseMIA-892_0_T-1
+18982	added: 28	deleted: 9
+USA_ArgoverseMIA-144_0_T-1
+26926	added: 51	deleted: 2
+USA_ArgoverseMIA-786_0_T-1
+16760	added: 42	deleted: 3
+USA_ArgoverseMIA-16_0_T-1
+215861	added: 110	deleted: 1
+USA_ArgoverseMIA-292_0_T-1
+27036	added: 63	deleted: 2
+USA_ArgoverseMIA-896_0_T-1
+5808	added: 23	deleted: 16
+USA_ArgoverseMIA-365_0_T-1
+36798	added: 33	deleted: 23
+USA_ArgoverseMIA-896_0_T-1
+5808	added: 24	deleted: 2
+USA_ArgoverseMIA-892_0_T-1
+19002	added: 22	deleted: 11
+USA_ArgoverseMIA-16_0_T-1
+215861	added: 114	deleted: 1
+USA_ArgoverseMIA-786_0_T-1
+16760	added: 77	deleted: 2
+USA_ArgoverseMIA-365_0_T-1
+36798	added: 44	deleted: 2
+USA_ArgoverseMIA-16_0_T-1
+215894	added: 66	deleted: 1
+USA_ArgoverseMIA-892_0_T-1
+19013	added: 45	deleted: 2
+USA_ArgoverseMIA-365_0_T-1
+36814	added: 34	deleted: 2
+USA_ArgoverseMIA-224_0_T-1
+29601	added: 62	deleted: 2
+USA_ArgoverseMIA-144_0_T-1
+26926	added: 158	deleted: 2
+USA_ArgoverseMIA-671_0_T-1
+19494	added: 18	deleted: 13
+USA_ArgoverseMIA-736_0_T-1
+66109	added: 26	deleted: 3
+USA_ArgoverseMIA-16_0_T-1
+215902	added: 23	deleted: 9
+USA_ArgoverseMIA-144_0_T-1
+26957	added: 73	deleted: 2
+USA_ArgoverseMIA-786_0_T-1
+16760	added: 136	deleted: 2
+USA_ArgoversePIT-405_0_T-1
+9660	added: 29	deleted: 2
+USA_ArgoverseMIA-786_0_T-1
+16786	added: 36	deleted: 2
+USA_ArgoverseMIA-409_0_T-1
+62739	added: 29	deleted: 4
+USA_ArgoverseMIA-144_0_T-1
+26957	added: 61	deleted: 2
+USA_ArgoverseMIA-144_0_T-1
+26994	added: 21	deleted: 2
+USA_ArgoverseMIA-322_0_T-1
+82636	added: 19	deleted: 7
+USA_ArgoverseMIA-896_0_T-1
+5816	added: 46	deleted: 2
+USA_ArgoverseMIA-642_0_T-1
+33244	added: 41	deleted: 2
+USA_ArgoversePIT-215_0_T-1
+88564	added: 19	deleted: 7
+USA_ArgoverseMIA-789_0_T-1
+92069	added: 17	deleted: 7
+USA_ArgoverseMIA-322_0_T-1
+82636	added: 62	deleted: 2
+USA_ArgoverseMIA-786_0_T-1
+16786	added: 95	deleted: 2
+USA_ArgoverseMIA-314_0_T-1
+49708	added: 32	deleted: 2
+USA_ArgoverseMIA-786_0_T-1
+16833	added: 36	deleted: 2
+USA_ArgoverseMIA-789_0_T-1
+92166	added: 30	deleted: 5
+USA_ArgoverseMIA-322_0_T-1
+82713	added: 21	deleted: 9
+USA_ArgoversePIT-888_0_T-1
+30816	added: 45	deleted: 2
+USA_ArgoversePIT-570_0_T-1
+20993	added: 18	deleted: 13
+USA_ArgoverseMIA-789_0_T-1
+92166	added: 35	deleted: 6
+USA_ArgoversePIT-652_0_T-1
+71041	added: 23	deleted: 18
+USA_ArgoverseMIA-375_0_T-1
+54861	added: 14	deleted: 2
+USA_ArgoversePIT-47_0_T-1
+30456	added: 27	deleted: 2
+USA_ArgoversePIT-570_0_T-1
+21080	added: 20	deleted: 10
+USA_ArgoverseMIA-736_0_T-1
+66114	added: 49	deleted: 20
+USA_ArgoverseMIA-442_0_T-1
+266733	added: 25	deleted: 2
+USA_ArgoverseMIA-751_0_T-1
+56886	added: 20	deleted: 2
+USA_ArgoverseMIA-153_0_T-1
+33827	added: 20	deleted: 10
+USA_ArgoversePIT-391_0_T-1
+36436	added: 16	deleted: 9
+USA_ArgoverseMIA-278_0_T-1
+7858	added: 27	deleted: 15
+USA_ArgoverseMIA-442_0_T-1
+266999	added: 41	deleted: 2
+USA_ArgoversePIT-250_0_T-1
+26498	added: 20	deleted: 6
+USA_ArgoverseMIA-278_0_T-1
+7902	added: 58	deleted: 2
+USA_ArgoverseMIA-442_0_T-1
+267117	added: 52	deleted: 2
+USA_ArgoverseMIA-278_0_T-1
+7972	added: 12	deleted: 3
+USA_ArgoverseMIA-309_0_T-1
+7859	added: 39	deleted: 2
+USA_ArgoverseMIA-736_0_T-1
+66133	added: 31	deleted: 8
+USA_ArgoverseMIA-338_0_T-1
+17799	added: 69	deleted: 2
+USA_ArgoverseMIA-278_0_T-1
+8014	added: 21	deleted: 2
+USA_ArgoverseMIA-442_0_T-1
+267187	added: 28	deleted: 2
+USA_ArgoverseMIA-41_0_T-1
+65655	added: 35	deleted: 6
+USA_ArgoverseMIA-338_0_T-1
+17892	added: 30	deleted: 2
+USA_ArgoverseMIA-872_0_T-1
+88762	added: 39	deleted: 2
+USA_ArgoverseMIA-309_0_T-1
+7860	added: 54	deleted: 2
+USA_ArgoverseMIA-278_0_T-1
+8015	added: 35	deleted: 4
+USA_ArgoverseMIA-40_0_T-1
+367	added: 35	deleted: 2
+USA_ArgoverseMIA-442_0_T-1
+267187	added: 80	deleted: 2
+USA_ArgoverseMIA-736_0_T-1
+66143	added: 33	deleted: 6
+USA_ArgoverseMIA-643_0_T-1
+87032	added: 61	deleted: 2
+USA_ArgoverseMIA-736_0_T-1
+66179	added: 15	deleted: 10
+USA_ArgoverseMIA-855_0_T-1
+15742	added: 17	deleted: 5
+USA_ArgoverseMIA-338_0_T-1
+17892	added: 128	deleted: 2
+USA_ArgoverseMIA-643_0_T-1
+87280	added: 34	deleted: 2
+USA_ArgoverseMIA-278_0_T-1
+8021	added: 23	deleted: 11
+USA_ArgoverseMIA-54_0_T-1
+37523	added: 29	deleted: 2
+USA_ArgoverseMIA-855_0_T-1
+15814	added: 30	deleted: 2
+USA_ArgoverseMIA-785_0_T-1
+48907	added: 30	deleted: 3
+USA_ArgoverseMIA-643_0_T-1
+87345	added: 73	deleted: 2
+USA_ArgoverseMIA-278_0_T-1
+8028	added: 19	deleted: 13
+USA_ArgoverseMIA-785_0_T-1
+48919	added: 22	deleted: 7
+USA_ArgoverseMIA-785_0_T-1
+48933	added: 17	deleted: 2
+USA_ArgoverseMIA-855_0_T-1
+15951	added: 94	deleted: 2
+USA_ArgoverseMIA-256_0_T-1
+44217	added: 19	deleted: 2
+USA_ArgoversePIT-641_0_T-1
+33602	added: 19	deleted: 2
+USA_ArgoverseMIA-521_0_T-1
+83346	added: 103	deleted: 2
+USA_ArgoverseMIA-752_0_T-1
+45488	added: 51	deleted: 4
+USA_ArgoverseMIA-278_0_T-1
+8049	added: 20	deleted: 12
+USA_ArgoverseMIA-855_0_T-1
+15976	added: 27	deleted: 5
+USA_ArgoverseMIA-643_0_T-1
+87345	added: 120	deleted: 2
+USA_ArgoversePIT-641_0_T-1
+33606	added: 71	deleted: 2
+USA_ArgoverseMIA-855_0_T-1
+15980	added: 64	deleted: 2
+USA_ArgoverseMIA-893_0_T-1
+19875	added: 44	deleted: 3
+USA_ArgoverseMIA-777_0_T-1
+16922	added: 14	deleted: 2
+USA_ArgoverseMIA-855_0_T-1
+15996	added: 28	deleted: 3
+USA_ArgoverseMIA-893_0_T-1
+19973	added: 41	deleted: 2
+USA_ArgoverseMIA-643_0_T-1
+87345	added: 120	deleted: 2
+USA_ArgoverseMIA-777_0_T-1
+17303	added: 20	deleted: 8
+USA_ArgoverseMIA-643_0_T-1
+87426	added: 73	deleted: 2
+USA_ArgoversePIT-612_0_T-1
+3469	added: 47	deleted: 2
+USA_ArgoverseMIA-488_0_T-1
+58761	added: 37	deleted: 9
+USA_ArgoverseMIA-177_0_T-1
+12623	added: 44	deleted: 2
+USA_ArgoversePIT-747_0_T-1
+3722	added: 31	deleted: 2
+USA_ArgoverseMIA-488_0_T-1
+58795	added: 26	deleted: 4
+USA_ArgoverseMIA-177_0_T-1
+12696	added: 22	deleted: 14
+USA_ArgoverseMIA-488_0_T-1
+58795	added: 80	deleted: 2
+USA_ArgoverseMIA-177_0_T-1
+12750	added: 43	deleted: 2
+USA_ArgoverseMIA-460_0_T-1
+33339	added: 34	deleted: 28
+USA_ArgoverseMIA-177_0_T-1
+12774	added: 17	deleted: 2
+USA_ArgoverseMIA-488_0_T-1
+58838	added: 59	deleted: 2
+USA_ArgoverseMIA-328_0_T-1
+39156	added: 22	deleted: 12
+USA_ArgoverseMIA-87_0_T-1
+44724	added: 61	deleted: 5
+USA_ArgoversePIT-656_0_T-1
+95418	added: 14	deleted: 2
+USA_ArgoverseMIA-488_0_T-1
+58865	added: 38	deleted: 2
+USA_ArgoverseMIA-177_0_T-1
+12776	added: 15	deleted: 7
+USA_ArgoverseMIA-177_0_T-1
+12777	added: 23	deleted: 2
+USA_ArgoverseMIA-112_0_T-1
+85475	added: 23	deleted: 2
+USA_ArgoverseMIA-521_0_T-1
+83357	added: 48	deleted: 40
+USA_ArgoverseMIA-460_0_T-1
+33370	added: 26	deleted: 14
+USA_ArgoverseMIA-177_0_T-1
+12777	added: 86	deleted: 2
+USA_ArgoverseMIA-112_0_T-1
+85475	added: 90	deleted: 2
+USA_ArgoverseMIA-521_0_T-1
+83402	added: 21	deleted: 10
+USA_ArgoverseMIA-112_0_T-1
+85479	added: 17	deleted: 2
+USA_ArgoverseMIA-256_0_T-1
+44516	added: 64	deleted: 28
+USA_ArgoverseMIA-177_0_T-1
+12793	added: 29	deleted: 7
+USA_ArgoverseMIA-606_0_T-1
+60378	added: 69	deleted: 2
+USA_ArgoverseMIA-87_0_T-1
+44755	added: 66	deleted: 8
+USA_ArgoverseMIA-112_0_T-1
+85480	added: 91	deleted: 2
+USA_ArgoverseMIA-112_0_T-1
+85486	added: 85	deleted: 1
+USA_ArgoverseMIA-112_0_T-1
+85486	added: 85	deleted: 1
+USA_ArgoverseMIA-177_0_T-1
+12802	added: 27	deleted: 14
+USA_ArgoverseMIA-643_0_T-1
+87501	added: 44	deleted: 42
+USA_ArgoverseMIA-87_0_T-1
+44841	added: 38	deleted: 9
+USA_ArgoverseMIA-112_0_T-1
+85486	added: 93	deleted: 2
+USA_ArgoverseMIA-256_0_T-1
+44520	added: 53	deleted: 10
+USA_ArgoverseMIA-643_0_T-1
+87510	added: 24	deleted: 11
+USA_ArgoverseMIA-256_0_T-1
+44525	added: 18	deleted: 3
+USA_ArgoverseMIA-112_0_T-1
+85523	added: 14	deleted: 6
+USA_ArgoverseMIA-256_0_T-1
+44558	added: 17	deleted: 2
+USA_ArgoverseMIA-87_0_T-1
+44841	added: 40	deleted: 5
+USA_ArgoverseMIA-256_0_T-1
+44610	added: 30	deleted: 2
+USA_ArgoversePIT-209_0_T-1
+104517	added: 43	deleted: 29
+USA_ArgoverseMIA-9_0_T-1
+13325	added: 30	deleted: 9
+USA_ArgoversePIT-615_0_T-1
+923	added: 18	deleted: 16
+USA_ArgoverseMIA-665_0_T-1
+43566	added: 39	deleted: 2
+USA_ArgoverseMIA-9_0_T-1
+13352	added: 28	deleted: 2
+USA_ArgoverseMIA-256_0_T-1
+44610	added: 70	deleted: 2
+USA_ArgoverseMIA-578_0_T-1
+22942	added: 47	deleted: 2
+USA_ArgoverseMIA-317_0_T-1
+33093	added: 23	deleted: 14
+USA_ArgoverseMIA-256_0_T-1
+44622	added: 64	deleted: 2
+USA_ArgoverseMIA-9_0_T-1
+13463	added: 21	deleted: 11
+USA_ArgoverseMIA-118_0_T-1
+22260	added: 16	deleted: 12
+USA_ArgoverseMIA-717_0_T-1
+34952	added: 20	deleted: 2
+USA_ArgoverseMIA-694_0_T-1
+48654	added: 55	deleted: 5
+USA_ArgoverseMIA-717_0_T-1
+34952	added: 32	deleted: 2
+USA_ArgoversePIT-669_0_T-1
+148956	added: 14	deleted: 9
+USA_ArgoversePIT-134_0_T-1
+19524	added: 41	deleted: 2
+USA_ArgoversePIT-489_0_T-1
+31390	added: 63	deleted: 2
+USA_ArgoverseMIA-694_0_T-1
+48668	added: 66	deleted: 2
+USA_ArgoverseMIA-95_0_T-1
+59989	added: 20	deleted: 13
+USA_ArgoverseMIA-606_0_T-1
+60510	added: 64	deleted: 6
+USA_ArgoverseMIA-694_0_T-1
+48690	added: 23	deleted: 2
+USA_ArgoverseMIA-95_0_T-1
+60148	added: 39	deleted: 2
+USA_ArgoversePIT-451_0_T-1
+1422	added: 21	deleted: 7
+USA_ArgoverseMIA-694_0_T-1
+48690	added: 62	deleted: 2
+USA_ArgoversePIT-615_0_T-1
+923	added: 47	deleted: 15
+USA_ArgoverseMIA-694_0_T-1
+48726	added: 17	deleted: 2
+USA_ArgoversePIT-451_0_T-1
+1744	added: 32	deleted: 2
+USA_ArgoversePIT-280_0_T-1
+141617	added: 25	deleted: 12
+USA_ArgoverseMIA-70_0_T-1
+88506	added: 19	deleted: 6
+USA_ArgoverseMIA-504_0_T-1
+97892	added: 23	deleted: 11
+USA_ArgoverseMIA-540_0_T-1
+80475	added: 14	deleted: 2
+USA_ArgoverseMIA-522_0_T-1
+9909	added: 27	deleted: 2
+USA_ArgoverseMIA-70_0_T-1
+88751	added: 47	deleted: 2
+USA_ArgoverseMIA-504_0_T-1
+97901	added: 21	deleted: 9
+USA_ArgoversePIT-451_0_T-1
+1744	added: 107	deleted: 2
+USA_ArgoversePIT-764_0_T-1
+38451	added: 30	deleted: 8
+USA_ArgoverseMIA-422_0_T-1
+83175	added: 51	deleted: 2
+USA_ArgoversePIT-451_0_T-1
+1768	added: 16	deleted: 2
+USA_ArgoverseMIA-318_0_T-1
+17030	added: 30	deleted: 2
+USA_ArgoverseMIA-522_0_T-1
+9920	added: 30	deleted: 8
+USA_ArgoversePIT-451_0_T-1
+1795	added: 146	deleted: 1
+USA_ArgoverseMIA-446_0_T-1
+105732	added: 15	deleted: 10
+USA_ArgoverseMIA-70_0_T-1
+88788	added: 37	deleted: 9
+USA_ArgoverseMIA-431_0_T-1
+135185	added: 29	deleted: 7
+USA_ArgoversePIT-451_0_T-1
+1803	added: 36	deleted: 2
+USA_ArgoverseMIA-875_0_T-1
+207777	added: 15	deleted: 3
+USA_ArgoversePIT-258_0_T-1
+22067	added: 23	deleted: 21
+USA_ArgoverseMIA-85_0_T-1
+63603	added: 37	deleted: 2
+USA_ArgoverseMIA-875_0_T-1
+207799	added: 12	deleted: 3
+USA_ArgoverseMIA-446_0_T-1
+105732	added: 69	deleted: 2
+USA_ArgoverseMIA-19_0_T-1
+134489	added: 31	deleted: 2
+USA_ArgoversePIT-451_0_T-1
+1821	added: 41	deleted: 2
+USA_ArgoverseMIA-875_0_T-1
+207803	added: 52	deleted: 2
+USA_ArgoverseMIA-85_0_T-1
+64275	added: 64	deleted: 2
+USA_ArgoverseMIA-446_0_T-1
+106002	added: 37	deleted: 4
+USA_ArgoverseMIA-277_0_T-1
+33923	added: 54	deleted: 2
+USA_ArgoverseMIA-476_0_T-1
+30851	added: 22	deleted: 13
+USA_ArgoverseMIA-277_0_T-1
+33923	added: 54	deleted: 2
+USA_ArgoverseMIA-277_0_T-1
+33989	added: 36	deleted: 2
+USA_ArgoverseMIA-85_0_T-1
+64305	added: 27	deleted: 19
+USA_ArgoverseMIA-875_0_T-1
+207827	added: 36	deleted: 12
+USA_ArgoverseMIA-277_0_T-1
+34047	added: 19	deleted: 17
+USA_ArgoverseMIA-277_0_T-1
+34057	added: 32	deleted: 2
+USA_ArgoverseMIA-875_0_T-1
+207828	added: 21	deleted: 9
+USA_ArgoverseMIA-277_0_T-1
+34067	added: 52	deleted: 2
+USA_ArgoverseMIA-277_0_T-1
+34067	added: 72	deleted: 2
+USA_ArgoverseMIA-85_0_T-1
+64321	added: 44	deleted: 12
+USA_ArgoverseMIA-85_0_T-1
+64336	added: 20	deleted: 4
+USA_ArgoverseMIA-277_0_T-1
+34083	added: 65	deleted: 2
+USA_ArgoverseMIA-277_0_T-1
+34093	added: 43	deleted: 2
+USA_ArgoverseMIA-277_0_T-1
+34093	added: 106	deleted: 2
+USA_ArgoverseMIA-717_0_T-1
+34992	added: 26	deleted: 10
+USA_ArgoverseMIA-277_0_T-1
+34093	added: 146	deleted: 1
+USA_ArgoverseMIA-277_0_T-1
+34111	added: 34	deleted: 32
+USA_ArgoverseMIA-277_0_T-1
+34111	added: 31	deleted: 7
+USA_ArgoverseMIA-277_0_T-1
+34133	added: 76	deleted: 2
+USA_ArgoverseMIA-277_0_T-1
+34158	added: 23	deleted: 5
+USA_ArgoverseMIA-14_0_T-1
+116680	added: 24	deleted: 5
+USA_ArgoverseMIA-10_0_T-1
+79742	added: 53	deleted: 4
+USA_ArgoverseMIA-10_0_T-1
+79747	added: 83	deleted: 2
+USA_ArgoverseMIA-10_0_T-1
+79747	added: 83	deleted: 2
+USA_ArgoverseMIA-10_0_T-1
+79747	added: 265	deleted: 2
+USA_ArgoverseMIA-10_0_T-1
+79753	added: 41	deleted: 2
+USA_ArgoverseMIA-10_0_T-1
+79742	added: 53	deleted: 4
+USA_ArgoverseMIA-10_0_T-1
+79747	added: 83	deleted: 2
+USA_ArgoverseMIA-10_0_T-1
+79747	added: 83	deleted: 2
+USA_ArgoverseMIA-10_0_T-1
+79747	added: 265	deleted: 2
+USA_ArgoverseMIA-10_0_T-1
+79753	added: 41	deleted: 2
+USA_ArgoverseMIA-9_0_T-1
+13325	added: 30	deleted: 9
+USA_ArgoverseMIA-9_0_T-1
+13463	added: 21	deleted: 11
+USA_ArgoversePIT-669_0_T-1
+148956	added: 11	deleted: 6
+USA_ArgoverseMIA-118_0_T-1
+22260	added: 13	deleted: 9
+USA_ArgoversePIT-251_0_T-1
+64466	added: 12	deleted: 5
+USA_ArgoverseMIA-667_0_T-1
+59635	added: 54	deleted: 2
+USA_ArgoversePIT-165_0_T-1
+11568	added: 33	deleted: 10
+USA_ArgoversePIT-669_0_T-1
+148956	added: 11	deleted: 6
+USA_ArgoversePIT-251_0_T-1
+64466	added: 12	deleted: 5
+USA_ArgoverseMIA-118_0_T-1
+22260	added: 13	deleted: 9
+USA_ArgoverseMIA-667_0_T-1
+59635	added: 54	deleted: 2
+USA_ArgoversePIT-165_0_T-1
+11568	added: 33	deleted: 10
+USA_ArgoversePIT-669_0_T-1
+148956	added: 11	deleted: 6
+USA_ArgoversePIT-251_0_T-1
+64466	added: 12	deleted: 5
+USA_ArgoverseMIA-118_0_T-1
+22260	added: 13	deleted: 9
+USA_ArgoverseMIA-667_0_T-1
+59635	added: 54	deleted: 2
+USA_ArgoversePIT-165_0_T-1
+11568	added: 33	deleted: 10
+USA_ArgoversePIT-669_0_T-1
+148956	added: 11	deleted: 6
+USA_ArgoverseMIA-118_0_T-1
+22260	added: 13	deleted: 9
+USA_ArgoversePIT-251_0_T-1
+64466	added: 12	deleted: 5
+USA_ArgoverseMIA-667_0_T-1
+59635	added: 54	deleted: 2
+USA_ArgoversePIT-165_0_T-1
+11568	added: 33	deleted: 10
+USA_ArgoverseMIA-144_0_T-1
+26844	added: 31	deleted: 2
+USA_ArgoverseMIA-144_0_T-1
+26926	added: 51	deleted: 2
